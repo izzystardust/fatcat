@@ -8,6 +8,8 @@ Yeah. Of course he does. That's why I started the Fat Cat Polygraph Project,
 a microcontroller that lives under the sink with one simple job: fact check
 the cat's statement that he still hasn't been fed.
 
+![The Little Liar](https://github.com/millere/fatcat/blob/master/images/pantsonfire.jpg?raw=true)
+
 ## Summary
 
 Two buttons. Two LEDs. If an LED is on, the cat is telling the truth (guess
@@ -20,6 +22,8 @@ to make sure everything's working.
 First time it turns on, both LEDs will blink a few times and stay lit. Press the
 button for the next meal and the thing is good-to-go. Screw it up? Press both buttons
 at the same time and everything will reset.
+
+![Installed in the cabinet](https://github.com/millere/fatcat/blob/master/images/dinnertime.jpg?raw=true)
 
 ## The Hardware
 
@@ -49,3 +53,4 @@ This handles what I want it to do. If you wanted to, you could
 - Make it handle 3 meals (gasp!)
 - Make it use only one button. Really only needs one, and reset could be press
   and hold. But I had two switches in a box. So I didn't. You can!
+- Add better pictures to the README. I might actually do this one.

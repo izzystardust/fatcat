@@ -1,5 +1,5 @@
 /* 
- * Copyright 2017 Ethan Miller. All rights reserved.
+ * Copyright 2017 Isabelle Miller. All rights reserved.
  * Use of this source code is goverened by an MIT-style
  * license that can be found in the LICENSE file.
  */
